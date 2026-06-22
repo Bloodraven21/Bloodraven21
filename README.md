@@ -61,8 +61,6 @@ Open source contributor to [valkey-io/valkey-helm](https://github.com/valkey-io/
 
 # 🏆 Community & Recognition:
 
-# 🏆 Community & Recognition:
-
 [![AWS Community Builder](https://img.shields.io/badge/AWS%20Community%20Builder-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://builder.aws.com/community/@ishan?tab=badges)
 [![Docker Captain](https://img.shields.io/badge/Docker%20Captain-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/contributors/ishan-jain/)
 [![AWS New Voices](https://img.shields.io/badge/AWS%20New%20Voices%202026-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)]
